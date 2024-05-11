@@ -1,0 +1,20 @@
+	    ** Welcome Customer **
+
+ Bill Number : 1435
+ Customer Name : M.QAIS
+ Phone Number : 03182673836
+ =========================================
+ Products		   QTY		    Price
+ =========================================
+ Bath Soap		   3		    420
+ Hair Gel		   8		    1920
+ Wheat		   4		    1320
+ Mazaa		   7		    595
+ -----------------------------------------
+ Cosmetic Tax :				    93.6
+ Grocery Tax :				    26.4
+ Cold Drink Tax :				    5.95
+
+ Total Bill :				   4380.9
+ -----------------------------------------
+

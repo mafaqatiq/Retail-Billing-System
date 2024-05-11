@@ -1,0 +1,21 @@
+	    ** Welcome Customer **
+
+ Bill Number : 500
+ Customer Name : ALI SAGEER
+ Phone Number : 03572748463
+ =========================================
+ Products		   QTY		    Price
+ =========================================
+ Face Cream		   6		    1320
+ Hair Spray		   8		    2800
+ Rice		   8		    2560
+ Sugar		   8		    3520
+ Frooti		   5		    1600
+ -----------------------------------------
+ Cosmetic Tax :				    164.8
+ Grocery Tax :				    121.6
+ Cold Drink Tax :				    16.0
+
+ Total Bill :				   12102.4
+ -----------------------------------------
+

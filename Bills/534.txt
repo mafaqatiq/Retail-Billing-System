@@ -1,0 +1,22 @@
+	    ** Welcome Customer **
+
+ Bill Number : 534
+ Customer Name : JOHN WICK
+ Phone Number : +93678264845
+ =========================================
+ Products		   QTY		    Price
+ =========================================
+ Bath Soap		   2		    280
+ Face Wash		   3		    450
+ Daal		   3		    255
+ Sugar		   3		    1320
+ Sprite		   5		    600
+ Dew		   2		    90
+ -----------------------------------------
+ Cosmetic Tax :				    29.2
+ Grocery Tax :				    31.5
+ Cold Drink Tax :				    6.9
+
+ Total Bill :				   3062.6
+ -----------------------------------------
+

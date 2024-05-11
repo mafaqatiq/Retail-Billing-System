@@ -1,0 +1,23 @@
+	    ** Welcome Customer **
+
+ Bill Number : 846
+ Customer Name : MUHAMMAD AFAQ ATIQ
+ Phone Number : 03406410233
+ =========================================
+ Products		   QTY		    Price
+ =========================================
+ Bath Soap		   1		    140
+ Face Wash		   2		    300
+ Hair Gel		   2		    480
+ Rice		   5		    1600
+ Daal		   4		    340
+ Sprite		   3		    360
+ Coca Cola		   3		    420
+ -----------------------------------------
+ Cosmetic Tax :				    36.8
+ Grocery Tax :				    38.8
+ Cold Drink Tax :				    7.8
+
+ Total Bill :				   3723.4
+ -----------------------------------------
+

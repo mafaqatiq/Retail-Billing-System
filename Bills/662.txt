@@ -1,0 +1,22 @@
+	    ** Welcome Customer **
+
+ Bill Number : 662
+ Customer Name : M.AFAQ
+ Phone Number : 03186190858
+ =========================================
+ Products		   QTY		    Price
+ =========================================
+ Bath Soap		   3		    420
+ Face Cream		   5		    1100
+ Hair Spray		   3		    1050
+ Body Lotion		   1		    350
+ Daal		   4		    340
+ Sprite		   5		    600
+ -----------------------------------------
+ Cosmetic Tax :				    116.8
+ Grocery Tax :				    6.8
+ Cold Drink Tax :				    6.0
+
+ Total Bill :				   3989.6
+ -----------------------------------------
+
