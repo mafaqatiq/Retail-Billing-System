@@ -25,3 +25,4 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 - M AFAQ <mafaqatiq@gmail.com>
 
 This updated format provides a clearer structure and highlights the key features of the Retail Billing System. Feel free to customize it further to suit your needs!
+Afaq here!
